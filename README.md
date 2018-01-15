@@ -1,6 +1,6 @@
 # Grundschrift App Build System
 
-This is the build system repository of the Grundschrift App
+This is the build system repository of the Grundschrift App based on cordova 3
 
 ## Prerequisites
 
