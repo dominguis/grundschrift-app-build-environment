@@ -21,11 +21,11 @@ else
 fi
 
 # Install the needed cordova plugins
-cordova plugin add 	org.apache.cordova.camera  \
-                    org.apache.cordova.device  \
-                    org.apache.cordova.media   \
-                    org.apache.cordova.file    \
-                    org.apache.cordova.console
+cordova plugin add 	cordova-plugin-camera  \
+                    cordova-plugin-device  \
+                    cordova-plugin-media   \
+                    cordova-plugin-file    \
+                    cordova-plugin-console
 
 # Add the platforms
 cordova platform add android
